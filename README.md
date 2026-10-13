@@ -183,26 +183,6 @@ A repository documenting my ongoing Machine Learning learning and practice.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NRachana015&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRachana015&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=NRachana015&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NRachana015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies"/>
-
-</div>
-
----
-
 ## 🌱 Current Learning Goals
 
 - Strengthening Python, OOP, and data manipulation.
