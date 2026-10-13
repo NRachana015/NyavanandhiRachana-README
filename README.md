@@ -1,267 +1,308 @@
-<!-- 🔥 Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Rachana%20Nyavanandhi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+ <!-- Animated Header -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Rachana%20Nyavanandhi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=68" width="100%" alt="Rachana Nyavanandhi banner"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+AIML+Student;Python+%7C+Machine+Learning+%7C+Deep+Learning;Exploring+NLP%2C+Computer+Vision+%26+Generative+AI;Building+Practical+AI-Powered+Applications;Learn+%7C+Build+%7C+Experiment+%7C+Improve" alt="Animated introduction"/>
+
+<p>
+<a href="https://github.com/NRachana015"><img src="https://img.shields.io/badge/GitHub-NRachana015-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-4F46E5?style=for-the-badge" alt="AI focus"/>
+<img src="https://img.shields.io/badge/Interest-Generative%20AI-06B6D4?style=for-the-badge" alt="Generative AI"/>
 </p>
 
-<!-- 🎬 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=AIML+Student;Python+Developer;Machine+Learning+Enthusiast;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Exploring+Generative+AI+%26+LLMs;Learning+RAG+%26+AI+Applications" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">Hi 👋, I'm Rachana Nyavanandhi</h2>
+## 👋 About Me
 
-<h4 align="center">
-🤖 Artificial Intelligence & Machine Learning Student
-</h4>
+Hi! I'm **Rachana Nyavanandhi**, a final-year B.Tech student specializing in **Artificial Intelligence and Machine Learning (AIML)**, with a Diploma in Computer Science and Engineering.
 
-<h4 align="center">
-🐍 Python Developer | 🧠 Machine Learning Enthusiast | 🚀 AI Explorer
-</h4>
+I'm passionate about understanding AI concepts and applying them to practical problems through software development, machine learning experiments, and end-to-end projects.
 
-<h4 align="center">
-Building my journey from Machine Learning fundamentals to Generative AI
-</h4>
-
----
-
-# 🧠 About Me
-
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning and Deep Learning**
-- 🐍 Interested in building practical applications using **Python**
-- 📊 Exploring **Data Analytics, Data Visualization and Machine Learning**
-- 👁️ Learning **Computer Vision and Image Processing**
-- 📝 Exploring **Natural Language Processing (NLP)**
-- 🔄 Learning **Transformers and modern AI architectures**
-- ✨ Exploring **Generative AI and Prompt Engineering**
-- 🧠 Learning about **Large Language Models (LLMs)**
-- 🔢 Exploring **Embeddings and Sentence Transformers**
-- 🔍 Learning to build **Retrieval-Augmented Generation (RAG)** applications
-- 🔌 Exploring **API integration for AI applications**
-- 🚀 Interested in developing **real-world AI-powered solutions**
-- 📚 Continuously learning, experimenting and improving my technical skills
-- 💡 I enjoy turning concepts into practical implementations
+- 🎓 Final-year B.Tech AIML student
+- 📚 Completed structured AIML training and the associated certification assessment
+- 🐍 Interested in Python programming and data-driven applications
+- 🤖 Exploring Machine Learning, Deep Learning, NLP, and Computer Vision
+- ✨ Learning Generative AI, LLMs, embeddings, and RAG applications
+- 📊 Exploring data analytics and visualization using Power BI
+- 🛠️ Developing AI applications, dashboards, and API-based systems
+- 🌱 Continuously strengthening my practical implementation and problem-solving skills
+- 🎯 Interested in AI/ML internships, career opportunities, and higher studies
 
 > **Learn → Understand → Implement → Experiment → Debug → Improve → Build**
 
 ---
 
-# 🛠️ Tech Stack
+## 🎓 My AIML Training Journey
 
-## 👨‍💻 Programming Languages
+My AIML training has helped me strengthen my understanding of artificial intelligence concepts and explore their practical applications.
+
+| Area | Learning focus |
+|---|---|
+| Python Programming | Programming fundamentals, problem-solving, and OOP |
+| Data Science | NumPy, pandas, data cleaning, and exploratory data analysis |
+| Machine Learning | Algorithms, model training, and evaluation |
+| Deep Learning | Neural networks and deep learning architectures |
+| Computer Vision | Image processing and object detection concepts |
+| NLP | Text preprocessing and text classification |
+| Generative AI | Transformers, LLMs, and prompt engineering |
+| RAG Applications | Embeddings, retrieval, and connecting external knowledge to LLMs |
+
+**Milestone:** Completed my AIML training and certification assessment. I continue to improve my practical skills through hands-on development and independent projects.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" alt="Programming languages"/>
+</p>
+
+### 📊 Data Science & Analytics
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+**Concepts:** Data cleaning, missing-value handling, outlier detection, exploratory data analysis, feature engineering, feature selection, correlation analysis, data transformation, and visualization.
+
+### 🤖 Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+- **Supervised Learning:** Linear Regression, Logistic Regression, KNN, SVM, Decision Trees, Random Forest
+- **Unsupervised Learning:** K-Means Clustering, Principal Component Analysis
+- **Model Development:** Train-test split, cross-validation, feature scaling, hyperparameter tuning
+- **Model Evaluation:** Accuracy, precision, recall, F1-score, confusion matrix, ROC-AUC
+- **Model Analysis:** Overfitting, underfitting, bias-variance trade-off, feature importance, class imbalance
+
+### 🌳 Decision Tree Concepts
+
+Entropy, Gini impurity, information gain, splitting criteria, tree depth, overfitting, pruning, and feature importance.
+
+### 🧠 Deep Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</p>
+
+**Concepts:** Artificial Neural Networks, CNNs, RNNs, LSTMs, pooling, batch normalization, transfer learning, Inception/GoogLeNet, Adam, Adagrad, and RMSProp.
+
+### 👁️ Computer Vision
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+Image processing, face detection, face recognition, object detection, video processing, and computer vision applications.
+
+### 📝 Natural Language Processing
+
+Text preprocessing, tokenization, stemming, lemmatization, n-grams, POS tagging, named entity recognition, TF-IDF, Word2Vec, embeddings, Sentence Transformers, text classification, and sentiment analysis.
+
+### ✨ Generative AI & LLMs
+
+Prompt engineering, Transformer architectures, large language models, embeddings, Sentence Transformers, vector databases, semantic search, RAG pipelines, AI APIs, and LLM-powered applications.
+
+### 🌐 Development Tools & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,streamlit,jupyter&theme=dark" alt="Development tools"/>
+<img src="https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
 
 ---
 
-## 📊 Data Science & Analytics
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 💧 1. IoT and Machine Learning Water Leakage Detection System
 
-<p align="center">
+**Major Project | In Development**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+An IoT and machine learning framework designed for water leakage detection, localization, and severity classification.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Developing a hybrid Graph Neural Network (GNN) and Transformer approach.
+- Working with sequential water-flow and pressure readings.
+- Designing multi-zone leakage localization and severity classification.
+- Building a FastAPI backend and Streamlit dashboard.
+- Planning physical sensor integration using ESP32 hardware.
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+**Tech stack:** Python · GNN · Transformers · FastAPI · Streamlit · IoT
 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### 🍎 2. NutriBot — Food Nutrition Chatbot
 
-</p>
+An interactive AI nutrition assistant that retrieves food nutrition information from the USDA FoodData Central API.
 
-### 📚 Concepts
+- Dynamic food nutrition search using USDA data.
+- Food-name matching and serving-size calculations.
+- Nutrition summaries and macronutrient visualizations.
+- Interactive Streamlit interface.
+- Deployment through Streamlit Community Cloud.
 
-- Data Cleaning
-- Missing Value Handling
-- Outlier Detection
-- Exploratory Data Analysis
-- Data Visualization
-- Correlation Analysis
-- Data Transformation
-- Feature Engineering
-- Feature Selection
+**Tech stack:** Python · Streamlit · pandas · REST APIs · Plotly
 
----
+🔗 [View Repository](https://github.com/NRachana015/food-nutrition-chatbot)  
+🌐 [Try the Live Application](https://food-nutrition-chatbot-4ys8af95qffyeu48wtu6wm.streamlit.app/)
 
-# 🤖 Machine Learning
+### ⚛️ 3. Quantum Cloud Optimizer
 
-<p align="center">
+A cloud optimization project exploring task scheduling, virtual machine allocation, resource utilization, and energy efficiency.
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Task scheduling across multiple virtual machines.
+- Resource utilization and workload analysis.
+- Energy consumption and efficiency comparisons.
+- Interactive visualization of optimization results.
 
-</p>
+**Tech stack:** Python · Vite · Cloud Optimization · Data Visualization
 
-## 🔹 Supervised Learning
+🔗 [View Repository](https://github.com/NRachana015/quantum-cloud-optimizer)
 
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Decision Tree
-- Random Forest
+### 🤖 4. LLM-EvalHub — LLM Evaluation Platform
 
-## 🔹 Unsupervised Learning
+A platform for experimenting with large language model evaluation workflows using a backend API and interactive interface.
 
-- K-Means Clustering
-- Principal Component Analysis (PCA)
+- LLM evaluation workflows and output analysis.
+- API-based application architecture.
+- Model experimentation and evaluation.
+- Automated testing of application functionality.
 
-## 📚 ML Concepts
+**Tech stack:** Python · FastAPI · Streamlit · LLMs · pytest
 
-- Train-Test Split
-- Cross Validation
-- Feature Scaling
-- Feature Engineering
-- Feature Selection
-- Hyperparameter Tuning
-- Overfitting
-- Underfitting
-- Bias & Variance
-- Model Evaluation
-- Feature Importance
-- Class Imbalance
+🔗 [View Repository](https://github.com/NRachana015/llm-evalhub)
 
-## 📏 Evaluation Metrics
+### 📝 5. Toxic Comment Classification
 
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC-AUC
+An NLP project focused on identifying toxic content in text.
 
----
+- Text preprocessing and feature preparation.
+- Text classification workflows.
+- Machine learning-based analysis and evaluation.
 
-# 🌳 Decision Tree
+**Tech stack:** Python · NLP · Machine Learning
 
-Currently practicing important Decision Tree concepts:
+### 🌦️ 6. Weather Forecasting
 
-- Entropy
-- Gini Impurity
-- Information Gain
-- Splitting Criteria
-- Tree Depth
-- Overfitting
-- Pruning
-- Feature Importance
+A project exploring weather-related data and forecasting workflows.
 
----
+**Focus:** Weather data · Python · Data Analysis
 
-# 🧠 Deep Learning
+### 👁️ 7. Object Detection
 
-<p align="center">
+A computer vision project focused on detecting objects in visual input.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Focus:** Python · Image Processing · Computer Vision
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+### 🪪 8. Face-Based Attendance System
 
-</p>
+A project exploring face-based identification for an attendance management workflow.
 
-## 🔬 Concepts
+**Focus:** Python · Computer Vision · Image Processing
 
-- Artificial Neural Networks
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Long Short-Term Memory (LSTM)
-- Pooling
-- Batch Normalization
-- Transfer Learning
-- Inception / GoogLeNet
+### 📊 9. Power BI Sales Analytics Dashboard
 
-## ⚙️ Optimization
+A business intelligence project focused on presenting sales and profitability metrics through a dashboard.
 
-- Adam
-- Adagrad
-- RMSProp
+- Sales and profit visualization.
+- KPI-based reporting.
+- Interactive business analytics.
+
+**Tech stack:** Power BI · Data Visualization · Analytics
+
+### 📉 10. Customer Churn Analysis Dashboard
+
+A data analytics project exploring customer churn patterns and presenting findings through visual reports.
+
+**Tech stack:** Power BI · Data Analysis · Dashboard Design
+
+### 📚 11. Books Data Exploratory Analysis
+
+An exploratory data analysis project using data collected from Books to Scrape.
+
+- Data collection and preparation.
+- Exploratory analysis.
+- Visualization and insight generation.
+
+**Tech stack:** Python · pandas · Web Scraping · Data Visualization
 
 ---
 
-# 👁️ Computer Vision
+## 💼 Additional Experience
 
-<p align="center">
+### Deloitte Virtual Data Analytics Internship
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Completed — February 2026**
 
-</p>
-
-## 🔍 Areas
-
-- Image Processing
-- Face Detection
-- Face Recognition
-- Object Detection
-- Video Processing
-- CCTV Surveillance
-- Computer Vision Applications
+Completed a virtual data analytics internship experience focused on data analytics. The entry can be expanded with the exact program tasks and deliverables if you want to showcase them individually.
 
 ---
 
-# 📝 Natural Language Processing
+## 📊 GitHub Statistics
 
-## 📚 Concepts
+<div align="center">
 
-- Text Preprocessing
-- Tokenization
-- Stemming
-- Lemmatization
-- N-Grams
-- POS Tagging
-- Named Entity Recognition
-- TF-IDF
-- Word2Vec
-- Word Embeddings
-- Sentence Transformers
-- Text Classification
-- Sentiment Analysis
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NRachana015&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRachana015&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
 
-# ✨ Generative AI
+<br/><br/>
 
-Currently exploring **Generative AI and modern LLM-based applications**.
+<img width="70%" src="https://streak-stats.demolab.com?user=NRachana015&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-## 🧠 Areas of Interest
+<br/><br/>
 
-- Prompt Engineering
-- Transformers
-- Large Language Models (LLMs)
-- Embeddings
-- Sentence Transformers
-- Vector Databases
-- Semantic Search
-- Retrieval-Augmented Generation (RAG)
-- AI APIs
-- LLM Applications
+<img src="https://github-profile-trophy.vercel.app/?username=NRachana015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies"/>
+
+</div>
 
 ---
 
-# 🔍 RAG & LLM Learning
+## 🌱 Current Learning Goals
 
-Learning how external knowledge can be connected with Large Language Models using **Retrieval-Augmented Generation**.
+- Strengthening Python, OOP, and data manipulation.
+- Improving practical ML and DL implementation.
+- Exploring Generative AI, RAG, and LLM integrations.
+- Building reliable AI applications with APIs.
+- Integrating live sensor data into the water leakage detection project.
+- Improving communication and professional presentation skills.
+- Preparing for AI/ML internships and higher studies.
 
-```text
-📄 Documents
-      ↓
-Document Loading
-      ↓
-Text Processing
-      ↓
-Chunking
-      ↓
-Embeddings
-      ↓
-Vector Database
-      ↓
-Similarity Search
-      ↓
-Relevant Context
-      ↓
-Large Language Model
-      ↓
-🤖 Final Response
+---
+
+## 🏅 Certifications & Learning
+
+- **AI/ML Training:** Completed training and the associated certification assessment.
+- **Deloitte Virtual Data Analytics Internship:** Completed February 2026.
+
+*Specific certification titles, credential IDs, and verification links can be added when confirmed.*
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/NRachana015">
+<img src="https://img.shields.io/badge/GitHub-NRachana015-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+**Thanks for visiting my profile! 💜**
+
+*Learning continuously. Building practically. Growing with AI.*
+
+</div>
