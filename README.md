@@ -227,15 +227,26 @@ I continue to develop my technical knowledge through practice, project implement
 <div align="center">
 
 <a href="https://github.com/NRachana015">
-<img src="https://img.shields.io/badge/GitHub-NRachana015-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+
+<a href="https://food-nutrition-chatbot-4ys8af95qffyeu48wtu6wm.streamlit.app/">
+  <img src="https://img.shields.io/badge/Streamlit-Try%20NutriBot-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch NutriBot on Streamlit Community Cloud"/>
+</a>
+
+<br/><br/>
+
+<a href="https://food-nutrition-chatbot-4ys8af95qffyeu48wtu6wm.streamlit.app/">
+  <strong>🍎 Explore My Live AI Nutrition Chatbot</strong>
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
 
-**Thanks for visiting my profile! 💜**
+Thanks for visiting my profile! 💜
 
-*Learning continuously. Building practically. Growing with AI.*
+Learning continuously. Building practically. Growing with AI.
 
 </div>
+
