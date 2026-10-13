@@ -225,15 +225,23 @@ I continue to develop my technical knowledge through practice, project implement
 ## 🤝 Let's Connect
 
 <div align="center">
-
-<a href="https://github.com/NRachana015">
-<img src="https://img.shields.io/badge/GitHub-NRachana015-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
+  <a href="https://github.com/NRachana015">
+    <img src="https://img.shields.io/badge/GitHub-NRachana015-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  &nbsp;
+  <a href="https://food-nutrition-chatbot-4ys8af95qffyeu48wtu6wm.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Community%20Cloud-6C63FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Community Cloud"/>
+  </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
 
+Thanks for visiting my profile! 💜
+
+Learning continuously. Building practically. Growing with AI.
+
+</div>
 Thanks for visiting my profile! 💜
 
 Learning continuously. Building practically. Growing with AI.
