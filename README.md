@@ -242,8 +242,4 @@ Thanks for visiting my profile! 💜
 Learning continuously. Building practically. Growing with AI.
 
 </div>
-Thanks for visiting my profile! 💜
 
-Learning continuously. Building practically. Growing with AI.
-
-</div>
